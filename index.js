@@ -11,11 +11,11 @@ var mqtt_host = 'mqtt://m15.cloudmqtt.com';
 var mqtt_topic = '/ESP32';
 // MQTT Config
 var options = {
-    port: 15378,
-    host: 'mqtt://m16.cloudmqtt.com',
+    port: 13525,
+    host: 'mqtt://postman.cloudmqtt.com',
     clientId: 'mqttjs_' + Math.random().toString(16).substr(2, 8),
-    username: 'lkutolkp',
-    password: '4_JKnh1JQGQn',
+    username: 'zfpwsigk',
+    password: 'R3HVQdrlZAOb',
     keepalive: 60,
     reconnectPeriod: 1000,
     protocolId: 'MQIsdp',
